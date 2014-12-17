@@ -1,4 +1,3 @@
-simple-landing-page
+Welcome to My World
 ===================
-
-Just a simple landing page for me
+Be Kaishin.
